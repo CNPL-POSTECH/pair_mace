@@ -26,7 +26,7 @@ PairStyle(mace,PairMACE);
 #define LMP_PAIR_MACE_H
 
 #include "pair.h"
-
+#include <vector>
 #include <torch/torch.h>
 #include <torch/script.h>
 
